@@ -1,0 +1,5 @@
+This project aims to recreate the iconic 2048 game using the C-language and integrating it with graphics library and file handling to enhance 
+the visual experience. This project replicated the core mechanics of the game, where players slide numbered tiles on a grid and combine them 
+with the goal to create the tile numbered “2048”. However, to make it more interesting and difficult I changed the goal to try to create the
+tile numbered- “4096”. I also included graphics library in this project, to make it more interactive and to provide a visually appealing user 
+interface, enhancing the engaging gaming experience. 
