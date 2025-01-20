@@ -572,7 +572,7 @@ void checkHScore(){
     //(2,1) outtextxy(335,160,"8");
     //(3,1) outtextxy(396,160,"4");  
 
-	//(0,2) outtextxy(210,220,"4");
+    //(0,2) outtextxy(210,220,"4");
     //(1,2) outtextxy(273,220,"8");  
     //(2,2) outtextxy(335,220,"4");
     //(3,2) outtextxy(396,220,"8"); 
